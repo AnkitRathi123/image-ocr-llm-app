@@ -28,7 +28,8 @@ This project allows users to upload an image (like a passport), extract text fro
 
 ## 🧪 Example Output
 
-**Image Input**: Passport of a fictional user  
+**Image Input**: Passport of a fictional user  ![OIP](https://github.com/user-attachments/assets/3d0d1f01-49e9-4124-8ede-45d5bf7fb657)
+
 **OCR Extracted Text**:
 
       1.Nationality: British
