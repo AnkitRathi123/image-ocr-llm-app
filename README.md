@@ -41,10 +41,10 @@ This project allows users to upload an image (like a passport), extract text fro
 
 ## 📊 Performance Log (LLM)
 
-llama_perf_context_print:        load time = 176335.41 ms
-llama_perf_context_print: prompt eval time = 19964.92 ms / 18 tokens
-llama_perf_context_print:        eval time = 57790.91 ms / 93 runs
-llama_perf_context_print:       total time = 77822.80 ms / 111 tokens
+                  llama_perf_context_print:        load time = 176335.41 ms
+                  llama_perf_context_print: prompt eval time = 19964.92 ms / 18 tokens
+                  llama_perf_context_print:        eval time = 57790.91 ms / 93 runs
+                  llama_perf_context_print:       total time = 77822.80 ms / 111 tokens
 
 
 This means the total LLM response time can be ~78 seconds depending on input complexity.
